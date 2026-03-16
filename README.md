@@ -1,5 +1,9 @@
 # plastic-ant-flippy
 
+## Onshape Link
+
+In case you need/want the Onshape link, it can be found here: https://cad.onshape.com/documents/fc911dea527d6414b0abc718/w/4e3ed9dadcd457da9ff39912/e/f9b23762fbe1540fc806aae5?renderMode=0&uiState=69b76606d3525f96e712c90c
+
 ## Idea
 
 This is a simple Plant class flipper bot. The main big design choice here is the type of wedges. I decided that, for simplicity, I'd use a circular/oval type  wedge which should just slip across both wood and metal flooring without the risk of getting stuck. 
@@ -12,7 +16,7 @@ The plant will most likely be printed out of PLA+, then I may remake it with TPU
 
 ## Chassis 
 
-Here's a photo of the Chassis! On the full assembly, it's put together with two little extensiosn things with holes to put screws and nuts through.
+Here's a photo of the Chassis! On the full assembly, it's put together with two little extension things with holes to put screws and nuts through.
 
 ![Chassis Photo](imgs/chassis113.png)
 
